@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Trinaya Kantevari</h1>
-<h3 align="center">A passionate DevOps engineer, who is continuously learning and improving her skills with each day. Feel free to reach out for any Freelance Projects.</h3>
-
 - 🔭 I work on **DevOps and Cloud related projects.**
 
 - 👯 I’m looking to collaborate on **Cloud-native Projects**
