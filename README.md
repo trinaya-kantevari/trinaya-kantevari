@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trinaya Kantevari</h1>
-- 🔭 I work on **DevOps and Cloud related projects.**
+- 🔭 I work on **DevOps and Cloud related projects**.
 
 - 👯 I’m looking to collaborate on **Cloud-native Projects**
 
